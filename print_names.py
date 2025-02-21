@@ -1,0 +1,2 @@
+print(" Yerassyl")
+print("Aral")
